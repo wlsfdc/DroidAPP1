@@ -20,6 +20,6 @@ public class MainActivity extends Activity {
     }
     public int test()
     {
-        return 0;
+        return 1;
     }
 }
