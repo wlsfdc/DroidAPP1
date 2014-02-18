@@ -20,6 +20,6 @@ public class MainActivity extends Activity {
     }
     public void master()
     {
-        
+        int a=0;
     }
 }
