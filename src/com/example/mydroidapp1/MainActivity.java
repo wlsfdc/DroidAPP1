@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-    public int test()
+    public int develop_sub1()
     {
         return 1;
     }
